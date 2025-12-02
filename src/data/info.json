@@ -1,10 +1,10 @@
 {
     "common": {
         "title": {
-            "en": "resume | Arikato111",
-            "th": "เรซูเม่ | Arikato111"
+            "en": "resume | ZocketZero",
+            "th": "เรซูเม่ | ZocketZero"
         },
-        "source": "github.com/Arikato111/resume"
+        "source": "github.com/ZocketZero/resume"
     },
     "personal": {
         "name": {
@@ -15,7 +15,7 @@
             "en": "Inexperienced software developer looking for a job related to software development to gain experience. I have knowledge in developing web applications, both Backend and Frontend, with popular frameworks and popular databases. Also has knowledge in using Linux for running various services, including using Docker in various forms, and has knowledge of networking for configuring various devices and using Software-defined Network and finally has knowledge in cybersecurity.",
             "th": "นักพัฒนาซอฟต์แวร์ที่ไม่มีประสบการณ์กำลังมองหางานเพื่อหาประสบการณ์ มีความรู้ในการพัฒนาเว็บแอปพลิเคชั่น ทั้ง Backend และ Frontend ด้วยเฟรมเวิร์กและฐานข้อมูลยอดฮิต มีความรู้ในการใช้งาน Linux สำหรับการรัน service ต่าง ๆ รวมถึงการใช้งาน Docker ในรูปแบบต่างๆ ทั้งยังมีความรู้ด้านเน็ตเวิร์กสำหรับการกำหนดค่าอุปกรณ์ต่างๆ รวมถึงการใช้งาน Software-defined Network และสุดท้ายมีความรู้ด้านความปลอดภัยทางไซเบอร์"
         },
-        "github": "Arikato111",
+        "github": "ZocketZero",
         "email": "contact@nawasan.dev",
         "linkedin": "nawasan",
         "website": "nawasan.dev"
@@ -34,7 +34,7 @@
                 "th": "โปรเจกต์เว็บขายของเล็ก ๆ จากห้องเรียนการเขียนโปรแกรมบนเว็บ ที่มีระบบการสั่งซื้อ จัดการสินค้า และบัญชีผู้ใช้"
             },
             "tech": "Full-Stack, Javascript, Nextjs, Express, Prisma, Mongodb, jsonwebtoken",
-            "link": "github.com/Arikato111/final-exam"
+            "link": "github.com/ZocketZero/final-exam"
         },
         {
             "name": "Tenjin",
@@ -43,7 +43,7 @@
                 "th": "เฟรมเวิร์ก SDN และโปรโตคอล Openflow ที่สามารถควบคุมสั่งการการทำงานของอุปกรณ์เน็ตเวิร์กที่รองรับ มีคอนโทรลเลอร์พื้นฐานในตัวที่สามารถเรียกใช้ผ่าน command line"
             },
             "tech": "Rust, Networks, command line, CI/CD, crates.io",
-            "link": "github.com/Arikato111/Tenjin"
+            "link": "github.com/ZocketZero/Tenjin"
         },
         {
             "name": "Social web",
@@ -52,7 +52,7 @@
                 "th": "เว็บไซต์้โปรเจกจบระดับ ปวส มีระบบบัญชีผู้ใช้งาน แอดมิน โพสต์ ตั้งกระทู้"
             },
             "tech": "Full-Stack, PHP, MySQL, Tailwindcss, Docker",
-            "link": "github.com/Arikato111/social-web-php"
+            "link": "github.com/ZocketZero/social-web-php"
         }
     ],
     "competitions": {
