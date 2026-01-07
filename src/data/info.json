@@ -18,7 +18,11 @@
         "github": "ZocketZero",
         "email": "contact@nawasan.dev",
         "linkedin": "nawasan",
-        "website": "nawasan.dev"
+        "website": "nawasan.dev",
+        "location": {
+            "th": "วารินชำราบ อุบลราชธานี 34190",
+            "en": "Warinchamrap, Ubon Ratchathani 34190"
+        }
     },
     "skills": {
         "programming": "Typescript, Rust, Python, PHP, Golang, C/C++",
